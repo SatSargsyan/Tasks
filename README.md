@@ -164,3 +164,6 @@ public class Example
 //        Task #9: RanToCompletion
 //        Task #10: RanToCompletion
 ```
+### We can't use<a href=https://msdn.microsoft.com/en-us/library/14akc2c7.aspx> the ref and out</a> keywords for the 
+<b>Async</b> methods, which we define by using the<b> async</b> modifier.
+
